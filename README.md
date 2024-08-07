@@ -1,2 +1,2 @@
-# vikas-py.github.io
-Markdown blog
+# Welcome to my blog
+I write about MES, Digital transformation in manufacturing industry.
